@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-plugin-theme-debuggap",
+  "version": "0.0.1",
+  "description": "debuggap theme for gitbook",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitbook": {
+    "properties": {
+    }
+  }
+}
